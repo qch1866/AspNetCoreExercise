@@ -1,0 +1,11 @@
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+M:\Authentication\JWTToken\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
