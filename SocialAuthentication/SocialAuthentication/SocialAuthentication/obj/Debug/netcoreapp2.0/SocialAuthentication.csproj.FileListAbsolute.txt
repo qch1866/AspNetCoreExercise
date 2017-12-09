@@ -1,0 +1,12 @@
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\bin\Debug\netcoreapp2.0\SocialAuthentication.deps.json
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\bin\Debug\netcoreapp2.0\SocialAuthentication.runtimeconfig.json
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\bin\Debug\netcoreapp2.0\SocialAuthentication.runtimeconfig.dev.json
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\bin\Debug\netcoreapp2.0\SocialAuthentication.dll
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\bin\Debug\netcoreapp2.0\SocialAuthentication.pdb
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\obj\Debug\netcoreapp2.0\SocialAuthentication.csprojResolveAssemblyReference.cache
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\obj\Debug\netcoreapp2.0\SocialAuthentication.csproj.CoreCompileInputs.cache
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\obj\Debug\netcoreapp2.0\SocialAuthentication.AssemblyInfoInputs.cache
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\obj\Debug\netcoreapp2.0\SocialAuthentication.AssemblyInfo.cs
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\obj\Debug\netcoreapp2.0\SocialAuthentication.dll
+M:\Authentication\SocialAuthentication\SocialAuthentication\SocialAuthentication\obj\Debug\netcoreapp2.0\SocialAuthentication.pdb
